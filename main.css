@@ -63,6 +63,8 @@ IMG.displayed {
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
+    width: 80%;
+    min-width: 200px;
 }
         
 #top-menu {
