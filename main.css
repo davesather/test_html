@@ -25,6 +25,7 @@ h1, h2, h3, h4, h5, h6{
     font-family: verdana; 
 }
 
+
 /* footer */
 
 footer {
@@ -52,14 +53,10 @@ footer p {
     clear: both;
 }
 
-/* centering test */
-
 .center { 
-display: block;
-margin-left: 40%;
+    display: block;
+    margin: 0 auto;
 } 
-/* end test*/
-
 
 IMG.displayed {
     display: block;
